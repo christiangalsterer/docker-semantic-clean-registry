@@ -1,0 +1,1 @@
+# docker-semantic-clean-registry
